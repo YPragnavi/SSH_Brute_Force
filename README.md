@@ -103,7 +103,7 @@ hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt ssh://<target-ip>
 
 ### 1. Splunk Login
 
-![Splunk Login](screenshots/splunk_login.png)
+![Splunk Login](screenshots/Splunk_login.png)
 
 ### 2. Splunk Dashboard
 
