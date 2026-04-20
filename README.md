@@ -103,31 +103,31 @@ hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt ssh://<target-ip>
 
 ### 1. Splunk Login
 
-![Splunk Login](screenshots/01_splunk_login.png)
+![Splunk Login](screenshots/splunk_login.png)
 
 ### 2. Splunk Dashboard
 
-![Dashboard](screenshots/02_home_dashboard.png)
+![Dashboard](screenshots/home_dashboard.png)
 
 ### 3. Add Data Source
 
-![Add Data](screenshots/03_add_data_source.png)
+![Add Data](screenshots/add_data_source.png)
 
 ### 4. Source Type Configuration
 
-![Source Type](screenshots/04_source_type_linux_secure.png)
+![Source Type](screenshots/source_type_linux_secure.png)
 
 ### 5. Review Configuration
 
-![Review](screenshots/05_review_configuration.png)
+![Review](screenshots/review_configuration.png)
 
 ### 6. Failed Password Logs
 
-![Logs](screenshots/06_failed_password_logs.png)
+![Logs](screenshots/failed_password_logs.png)
 
 ### 7. Detection Query Result
 
-![Detection](screenshots/07_detection_query.png)
+![Detection](screenshots/detection_query.png)
 
 
 ## 🧠 Key Learnings
