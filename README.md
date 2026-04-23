@@ -123,7 +123,7 @@ hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt ssh://<target-ip>
 
 ### 6. Failed Password Logs
 
-![Logs](screenshots/failed_password_logs.png)
+![Logs](screenshots/failed_logs.png)
 
 ### 7. Detection Query Result
 
